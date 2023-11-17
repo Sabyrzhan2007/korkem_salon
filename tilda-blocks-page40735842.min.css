@@ -1726,7 +1726,8 @@ img:not([src]) {
 
 .t994__btn-text {
     overflow: hidden;
-    text-overflow: ellipsis
+    text-overflow: ellipsis;
+		text-transform: uppercase;
 }
 
 .t994__arrow {
